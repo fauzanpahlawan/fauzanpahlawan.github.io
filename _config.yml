@@ -73,9 +73,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  In my free time i usually play games mostly Dota 2 i'm not a very good player in Dota 2 currently sitting on 4.5k MMR as a position 4, i also play gacha games.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I'd love to learn how to bake (i want to make sourdough), but can't find the place nor the opportunity to do so, maybe after i settle my living space.
 
 # Footer
 footer_show_references: true
