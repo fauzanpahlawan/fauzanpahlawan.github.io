@@ -61,6 +61,8 @@ about_content: | # this will include new lines to allow paragraphs
     - MySQL
     - Python
 
+  [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
