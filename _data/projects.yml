@@ -2,7 +2,7 @@
 - layout: top-middle
   name: Movie DB App
   #link: Link to project (https://github.com/fauzanpahlawan/ZMDb)
-  github: Github page for project (https://github.com/fauzanpahlawan/ZMDb)
+  github: https://github.com/fauzanpahlawan/ZMDb
   quote: >
     A movie DB Android App
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +12,7 @@
 - layout: top-middle
   name: Tour Guide Searcher App
   #link: Link to project (https://github.com/fauzanpahlawan/Go-Lang)
-  github: Github page for project (https://github.com/fauzanpahlawan/Go-Lang)
+  github: https://github.com/fauzanpahlawan/Go-Lang
   quote: >
     Android App for Tourist in visiting Malang, East Java
   description: | # this will include new lines to allow paragraphs
@@ -22,7 +22,7 @@
 - layout: top-middle
   name: Data Courier App
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (https://github.com/fauzanpahlawan/DataCourier)
+  github: https://github.com/fauzanpahlawan/DataCourier
   quote: >
     Data Courier Android App for Remote IoT Establishment
   description: | # this will include new lines to allow paragraphs
@@ -32,7 +32,7 @@
 - layout: top-middle
   name: Movie DB App
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (https://github.com/fauzanpahlawan)
+  github: https://github.com/fauzanpahlawan
   quote: >
     A movie DB Android App
   description: | # this will include new lines to allow paragraphs
