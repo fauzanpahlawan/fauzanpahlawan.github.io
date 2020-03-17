@@ -1,39 +1,39 @@
 # Project template
 - layout: top-middle
   name: Movie DB App
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #link: Link to project (https://github.com/fauzanpahlawan/ZMDb)
+  github: Github page for project (https://github.com/fauzanpahlawan/ZMDb)
   quote: >
-    A movie DB Android App with TMDB API as requirement for certification of Android Kejar
+    A movie DB Android App
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Android App about movie database that will show Top Rated Movies, Popular Movies, and save Favorite Movies for users. Built with Android Studio and Java, using data provided by TMDB API as requirement for certification of Android Kejar
 
 # Project template
 - layout: top-middle
   name: Tour Guide Searcher App
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #link: Link to project (https://github.com/fauzanpahlawan/Go-Lang)
+  github: Github page for project (https://github.com/fauzanpahlawan/Go-Lang)
   quote: >
-    Android App that will match tourist with reliable and professional tour guide in Malang, East Java, as requirement for passing Software Engineering course. Built with real-time database provided by Firebase
+    Android App for Tourist in visiting Malang, East Java
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Android App that can help Tourist visiting Malang, East Java for vacation finding reliable and professional Tour Guide. Built with Android Studio and Java, using real-time database by Google Firebase
 
 # Project template
 - layout: top-middle
-  name: Data Intermediary App
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Data Courier App
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (https://github.com/fauzanpahlawan/DataCourier)
   quote: >
-    Android that collect data from remote IoT Establishment and delivering it to the data centre with DTN Concept, as requirement for my Thesis.
+    Data Courier Android App for Remote IoT Establishment
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Android App with DTN(Delay Tolerant Network) that will collect data from remote IoT Establishment which has no Network Infrastructure and delivering it to data centre or another Android App that has the app installed. Built with Android Studio and Java as requirement for Thesis Final Project
 
 # Project template
 - layout: top-middle
   name: Movie DB App
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (https://github.com/fauzanpahlawan)
   quote: >
-    Another self train Movie DB Android App for API usage with TMDB API using Retrofit
+    A movie DB Android App
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Another Android App about movie database that will show Top Rated Movies, Built with Android Studio and Java using data provided by TMDB API for my own practice using Retrofit
