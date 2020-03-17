@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: AdIns
+#  link: https://ad-ins.com
+  job_title: Android Programmer Intern
+  dates: February 2018 - July 2018
   quote: >
-   Short description of the company (optional)
+   AdIns remote office that located in Malang, East Java, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Part of a team that responsible in developing projects using Android App, most of the Apps are using CRUD functions and fetching data using API.
