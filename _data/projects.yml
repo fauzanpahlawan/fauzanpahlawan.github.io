@@ -24,7 +24,7 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Android that collect data from remote IoT Establishment and delivering it to the data centre, as requirement for my Thesis.
+    Android that collect data from remote IoT Establishment and delivering it to the data centre with DTN Concept, as requirement for my Thesis.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
