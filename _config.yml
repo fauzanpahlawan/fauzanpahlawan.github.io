@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
     - HTML
     - MySQL
     - Python
-    
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
