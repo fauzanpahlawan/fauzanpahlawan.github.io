@@ -32,7 +32,7 @@
 - layout: top-middle
   name: Movie DB App
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: fauzanpahlawan
+  github: fauzanpahlawan/RMDB
   quote: >
     A movie DB Android App
   description: | # this will include new lines to allow paragraphs
