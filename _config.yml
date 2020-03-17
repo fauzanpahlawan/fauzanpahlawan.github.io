@@ -13,7 +13,7 @@ darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  fauzanpahlawan
+github_username: fauzanpahlawan
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -45,13 +45,21 @@ github_username:  fauzanpahlawan
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, My name's Fauzan Pahlawan, i'm a fresh graduate bachelor's degree in computer science.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I'm Most Proficient in:
+    - <mark>Java</mark>
+    - <mark>Android Studio</mark>
+
+  I'm Currently Learning:
+    -<mark>Kotlin</mark>
+
+  I Know:
+    -JavaScript
+    -Python
+    -PHP
+    -HTML
+    -MySQL
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -81,17 +89,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
