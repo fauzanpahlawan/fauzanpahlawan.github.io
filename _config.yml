@@ -7,7 +7,7 @@ name: Fauzan Pahlawan
 title: Android Developer
 email: fauzan.pahlawan@gmail.com
 #phone: Your phone number (optional)
-website: [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
+#website:
 
 darkmode: true
 
@@ -45,7 +45,8 @@ github_username: fauzanpahlawan
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name's Fauzan Pahlawan, i'm a fresh graduate bachelor's degree in computer science. See [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
+  Hi, My name's Fauzan Pahlawan, i'm a fresh graduate bachelor's degree in computer science.
+  See [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
 
   I'm Most Proficient in:
     - <mark>Java</mark>
@@ -61,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
     - MySQL
     - Python
 
-# [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
+[<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
