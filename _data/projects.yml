@@ -1,39 +1,39 @@
 # Project template
 - layout: top-middle
-  name: Movie DB with TMBD API
+  name: Movie DB App
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    A movie DB Android App with TMDB API as requirement for certification of Android Kejar
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
 # Project template
 - layout: top-middle
-  name: Tour Guide Searcher
+  name: Tour Guide Searcher App
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Android App that will match tourist with reliable and professional tour guide in Malang, East Java, as requirement for passing Software Engineering course. Built with real-time database provided by Firebase
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
 # Project template
 - layout: top-middle
-  name: Data Relay with DTN concept
+  name: Data Intermediary App
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Android that collect data from remote IoT Establishment and delivering it to the data centre, as requirement for my Thesis.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
 # Project template
 - layout: top-middle
-  name: Another Movie DB with TMBD API using Retrofit
+  name: Movie DB App
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Another self train Movie DB Android App for API usage with TMDB API using Retrofit
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
