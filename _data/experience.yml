@@ -3,12 +3,12 @@
 - layout: left
   company: AdIns
   #  link: https://ad-ins.com
-  job_title: Android Programmer Intern
+  job_title: Android Developer Intern
   dates: February 2018 - July 2018
   quote: >
     AdIns remote office that located in Malang, East Java, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible in Android App development projects, most of the Apps are using CRUD functions and fetching data provided by API.
+    Working in a team that responsible in Android App development project with Java, the app that the team developed have CRUD functions and fetching data provided by API.
 
 # Experience 2
 - layout: left
