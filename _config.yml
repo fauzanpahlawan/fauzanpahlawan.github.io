@@ -49,8 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
   See [<mark>My Resume</mark>](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
 
   I'm Most Proficient in:
-    - <mark>Java</mark>
     - <mark>Android Studio</mark>
+    - <mark>Java</mark>
 
   I'm Currently Learning:
     - <mark>Kotlin</mark>
