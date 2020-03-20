@@ -1,9 +1,11 @@
 <div class="container footer-container">
   <p>
     {{ site.name | escape }} -
-    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
-    {%- if site.footer_show_references -%}
-      &nbsp;- References on request
+    <a href="mailto:{{ site.email }}" target="_blank"
+      >{{ site.email | escape }}</a
+    >
+    {%- if site.footer_show_references -%} &nbsp;- Created with template by
+    <a href="https://github.com/sproogen/modern-resume-theme">sproogen</a>
     {%- endif -%}
   </p>
 </div>
