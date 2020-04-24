@@ -46,7 +46,7 @@ github_username: fauzanpahlawan
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name's Fauzan Pahlawan, i'm a fresh graduate bachelor's degree in computer science.
-  See [My Resume](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
+  Please check -> <mark>[My Resume](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)</mark>
 
   I'm Most Proficient in:
     - <mark>Java</mark>
