@@ -65,8 +65,8 @@ about_content: | # this will include new lines to allow paragraphs
     - Python
 
   Courses:
-    - Basic Kotlin [My Resume](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR)
-    - Basic Android Programming (dicoding), [certificate](https://drive.google.com/open?id=17LW88AQWxB-OuCyvs95krsxCm4KmwpRm)
+    - Basic Kotlin [dicoding](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR)
+    - Basic Android Programming [dicoding](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=17LW88AQWxB-OuCyvs95krsxCm4KmwpRm)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
