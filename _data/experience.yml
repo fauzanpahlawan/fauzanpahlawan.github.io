@@ -2,43 +2,54 @@
 # Experience 1
 - layout: left
   company: AdIns
-  #  link: https://ad-ins.com
+  #  link: 
   job_title: Android Developer Intern
   dates: February 2018 - July 2018
   quote: >
-    AdIns remote office that located in Malang, East Java, Indonesia
+    AdIns remote office that located in Malang, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Working in a team that responsible in Android App development project with Java, the app that the team developed have CRUD functions and fetching data provided by API.
+    Working in a team that responsible for the Android App development project with Java, the app that the team developed has CRUD functions and fetching data provided by API.
 
 # Experience 2
 - layout: left
-  company: Faculty of Computer Science Brawijaya University
-  #  link:
-  job_title: Beginner Programming Lab Assistant
-  dates: September 2015 - January 2016
+  company: KOMINFO
+  #  link: 
+  job_title: Android Developer Intern
+  dates: June 2017 - August 2017
   quote: >
-    Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
+    Ministry of Communication and Information Technology (Kementerian Komunikasi dan Informatika Republik Indonesia) Jakarta, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible in assisting and teaching college students in programming lab practice using Java on Beginner Level
+    Working in a team of three developing the early stage of Android App that can be used for reporting negative content violating rules of the internet in Indonesia. The app now under Kominfo rights and by the name Aduan Konten in google play
 
 # Experience 3
 - layout: left
   company: Faculty of Computer Science Brawijaya University
   #  link:
-  job_title: Intermediate Programming Lab Assistant
+  job_title: Advance Programming Lab Assistant
   dates: February 2016 - June 2016
   quote: >
     Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible in assisting and teaching college students in programming lab practice using Java on Intermediate Level
+    Part of a team that responsible for assisting and teaching college students in programming lab practice using Java on Advance Level
 
 # Experience 4
 - layout: left
   company: Faculty of Computer Science Brawijaya University
   #  link:
-  job_title: Networking Lab Assistant
+  job_title: Basic Programming Lab Assistant
+  dates: September 2015 - January 2016
+  quote: >
+    Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
+  description: | # this will include new lines to allow paragraphs
+    Part of a team that responsible for assisting and teaching college students in programming lab practice using Java on Basic Level
+
+# Experience 5
+- layout: left
+  company: Faculty of Computer Science Brawijaya University
+  #  link:
+  job_title: Computer Networking Lab Assistant
   dates: September 2016 - January 2017
   quote: >
     Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible in assisting and teaching college students in Networking
+    Part of a team that responsible for assisting and teaching college students in Computer Networking
