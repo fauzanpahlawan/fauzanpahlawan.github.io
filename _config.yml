@@ -49,17 +49,13 @@ about_content: | # this will include new lines to allow paragraphs
   See [My Resume](https://drive.google.com/open?id=149GHxsC62PZfIIH8vQ380mzt86x9SST8)
 
   I'm Most Proficient in:
-    - <mark>Android Studio</mark>
     - <mark>Java</mark>
+    - <mark>Kotlin</mark>
+    - <mark>Android Studio</mark>
     - <mark>Object Oriented Programming (OOP)</mark>
 
   Familiar With:
     - Design Patterns
-
-  I'm Currently Learning:
-    - <mark>Kotlin</mark>
-    
-    I have a beginner [Kotlin Certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR) from Dicoding Indonesia
 
   I Know:
     - JavaScript
@@ -67,6 +63,10 @@ about_content: | # this will include new lines to allow paragraphs
     - HTML
     - MySQL
     - Python
+
+  Courses:
+    - Basic Kotlin [My Resume](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR)
+    - Basic Android Programming (dicoding), [certificate](https://drive.google.com/open?id=17LW88AQWxB-OuCyvs95krsxCm4KmwpRm)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
