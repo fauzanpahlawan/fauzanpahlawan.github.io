@@ -6,9 +6,9 @@
   job_title: Android Developer Intern
   dates: February 2018 - July 2018
   quote: >
-    AdIns remote office that located in Malang, Indonesia
+    Ad-Ins Malang, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Working in a team that responsible for the Android App development project with Java, the app that the team developed has CRUD functions and fetching data provided by API.
+    Working in a team to develop and maintain project based Android Application. Design, create and maintain UI, create and maintain designed API Call, and also debugging.
 
 # Experience 2
 - layout: left
@@ -19,7 +19,7 @@
   quote: >
     Ministry of Communication and Information Technology (Kementerian Komunikasi dan Informatika Republik Indonesia) Jakarta, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Working in a team of three developing the early stage of Android App that can be used for reporting negative content violating rules of the internet in Indonesia. The app now under Kominfo rights and by the name Aduan Konten in google play
+    Working in a team of three to develop Android Application version of Aduan Konten by KOMINFO, that can be used by users to report negative content that meets the criteria of negative information or electronic document according to rules and regulation by KOMINFO.
 
 # Experience 3
 - layout: left
@@ -28,9 +28,9 @@
   job_title: Advance Programming Lab Assistant
   dates: February 2016 - June 2016
   quote: >
-    Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
+    Lab Assistant experience for Advance Programming Course in Faculty of Computer Science Brawijaya University
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible for assisting and teaching college students in programming lab practice using Java on Advance Level
+    Part of a team that responsible for assisting college students in Advance Programming practice with Java.
 
 # Experience 4
 - layout: left
@@ -39,9 +39,9 @@
   job_title: Basic Programming Lab Assistant
   dates: September 2015 - January 2016
   quote: >
-    Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
+    Lab Assistant experience for Basic Programming Course in Faculty of Computer Science Brawijaya University
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible for assisting and teaching college students in programming lab practice using Java on Basic Level
+    Part of a team that responsible for assisting college students Basic Programming practice with Java
 
 # Experience 5
 - layout: left
@@ -50,6 +50,6 @@
   job_title: Computer Networking Lab Assistant
   dates: September 2016 - January 2017
   quote: >
-    Lab Assistant experience for programming courses in Faculty of Computer Science Brawijaya University
+    Lab Assistant experience for Computer Network Course in Faculty of Computer Science Brawijaya University
   description: | # this will include new lines to allow paragraphs
-    Part of a team that responsible for assisting and teaching college students in Computer Networking
+    Part of a team that responsible for assisting college students in Computer Networking
