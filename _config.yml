@@ -69,6 +69,7 @@ about_content: | # this will include new lines to allow paragraphs
   Courses:
     - Kotlin Programming [dicoding](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR)
     - Android Application Development [dicoding](https://www.dicoding.com/users/556764/academies), [certificate](https://drive.google.com/open?id=17LW88AQWxB-OuCyvs95krsxCm4KmwpRm)
+    - Android Kejar
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -82,7 +83,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I can and willing to learn new things on the go, but i much prefer to learn new things from basic to get the fundamental understandings.
+  I can learn new things on the go, but i much prefer to learn new things from basic to get the fundamental understandings.
   I love building PC, i have interest in Voice Over (VO) and Voice Acting (VA)
 
 # Footer
