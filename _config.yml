@@ -67,10 +67,10 @@ about_content: | # this will include new lines to allow paragraphs
     - Python
 
   Courses:
-    - Beginning Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3), [certificate](https://drive.google.com/open?id=1LS75ogIS8p1bYaZJwZ2GTwH-YaHWesrR)
-    - Beginning Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M), [certificate](https://drive.google.com/open?id=17LW88AQWxB-OuCyvs95krsxCm4KmwpRm)
-    - Fundamental of Android Application Development [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65), [certificate](https://drive.google.com/file/d/1HBnwuA7-YIvo8ahBOrF9ry2Pz7akxj_h/view)
-    - Android Kejar
+    - Beginning Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3)
+    - Beginning Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M)
+    - Fundamental of Android Application Development [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65)
+    - Android Development - Intermediate by Android Kejar
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
