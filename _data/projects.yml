@@ -10,6 +10,16 @@
 
 # Project template
 - layout: top-middle
+  name: GitHubUser
+  #link: Link to project (https://github.com/fauzanpahlawan/GithubUser)
+  github: fauzanpahlawan/GithubUser
+  quote: >
+    A Simple Android App that consume /users data from GitHub API. Have Create, Read, and Delete function with Room database.
+  description: | # this will include new lines to allow paragraphs
+    This project is utilizing Android Architecture Components (Jetpack), which are: Room, ViewModel, LiveData, and also utilize Retrofit.
+
+# Project template
+- layout: top-middle
   name: MVVMPractice
   #link: Link to project (https://github.com/fauzanpahlawan/MVVMPractice)
   github: fauzanpahlawan/MVVMPractice
