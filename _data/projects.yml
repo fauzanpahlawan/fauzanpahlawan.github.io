@@ -16,7 +16,7 @@
   quote: >
     A Simple Android App that consume /users data from GitHub API. Have Create, Read, and Delete function with Room database.
   description: | # this will include new lines to allow paragraphs
-    This project is utilizing Android Architecture Components (Jetpack), which are: Room, ViewModel, LiveData, and also utilize Retrofit.
+    This project is a final assighment for class Android Fundamental by dicoding. The app is utilizing Android Architecture Components (Jetpack), which are: Room, ViewModel, LiveData, and also Retrofit as the API Library. Has search function and favorite function with CRUD 
 
 # Project template
 - layout: top-middle
