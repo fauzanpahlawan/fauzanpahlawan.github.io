@@ -57,6 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
     - <mark>Object Oriented Programming (OOP)</mark>
 
   Familiar:
+    - Flutter
+    - Dart
     - Design Patterns
 
   Know:
@@ -66,11 +68,17 @@ about_content: | # this will include new lines to allow paragraphs
     - MySQL
     - Python
 
-  Courses:
+  Courses: [dicoding]()
     - Beginning Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3)
     - Beginning Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M)
     - Fundamental of Android Application Development [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65)
     - Android Development - Intermediate by Android Kejar
+    - Fundamental of Android Programming [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65)
+    - Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M)
+    - Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3)
+    - Advance Android Programming (Android Kejar)
+    - Flutter Application Development [dicoding](https://www.dicoding.com/certificates/1RXYMRVMQXVM)
+    - Dart Programming [dicoding](https://www.dicoding.com/certificates/4EXG5R26DXRL)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
