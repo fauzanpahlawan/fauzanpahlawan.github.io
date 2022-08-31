@@ -1,5 +1,14 @@
 # Project template
 - layout: top-middle
+  name: tmdb
+  #link: Link to project (https://github.com/fauzanpahlawan/tmdb)
+  github: fauzanpahlawan/tmdb
+  quote: >
+    A movie DB Flutter App
+  description: | # this will include new lines to allow paragraphs
+    Simple Movie info Flutter App, built with flutter_bloc for state management and TMDB API for movie data.
+
+- layout: top-middle
   name: Movie DB App
   #link: Link to project (https://github.com/fauzanpahlawan/ZMDb)
   github: fauzanpahlawan/ZMDb
