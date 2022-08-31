@@ -68,11 +68,7 @@ about_content: | # this will include new lines to allow paragraphs
     - MySQL
     - Python
 
-  Courses: [dicoding]()
-    - Beginning Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3)
-    - Beginning Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M)
-    - Fundamental of Android Application Development [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65)
-    - Android Development - Intermediate by Android Kejar
+  Courses:
     - Fundamental of Android Programming [dicoding](https://www.dicoding.com/certificates/0LZ0DOMNKX65)
     - Android Application Development [dicoding](https://www.dicoding.com/certificates/GRX5G3722X0M)
     - Kotlin Programming [dicoding](https://www.dicoding.com/certificates/98XW6EMG9XM3)
