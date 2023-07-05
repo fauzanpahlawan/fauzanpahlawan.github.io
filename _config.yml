@@ -51,20 +51,23 @@ about_content: | # this will include new lines to allow paragraphs
   Programming Skills
   
   Proficient:
+    - <mark>C#
     - <mark>ASP.NET Web API
-    - <mark>SQL, T-SQL
-    - <mark>Clean Architecture
+    - <mark>Onion Architecture
+    - <mark>MVC
     - <mark>Object Oriented Programming (OOP)</mark>
+    - <mark>SQL, T-SQL
+    - <mark>PostgreSQL
 
   Familiar:
-    - Postgres
+    - HTML/CSS
+    - JavaScript
+    - jQuery
     - Flutter
     - Dart
     - Java
     - Kotlin
     - Design Patterns
-    - JavaScript
-    - HTML
     - Python
 
   Courses:
