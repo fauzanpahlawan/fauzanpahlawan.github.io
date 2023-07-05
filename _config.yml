@@ -48,6 +48,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am a software engineer enthusiast with a bachelor's degree in computer science. I have the ability to adapt to new challenges quickly and eager to learn new technologies and expand my knowledge. I prioritize honesty and integrity at all times, adaptable, and love to work in a group.
   Please check [My Resume](https://drive.google.com/file/d/1XHJCQHTpeqru8OED7J-E1pa8jYApaPXh/view?usp=sharing)
 
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
   Skills
   
   Proficient:
@@ -80,12 +86,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
