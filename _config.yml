@@ -77,11 +77,12 @@ about_content: | # this will include new lines to allow paragraphs
     - Advance Android Programming (Android Kejar)
     - Flutter Application Development [dicoding](https://www.dicoding.com/certificates/1RXYMRVMQXVM)
     - Dart Programming [dicoding](https://www.dicoding.com/certificates/4EXG5R26DXRL)
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
