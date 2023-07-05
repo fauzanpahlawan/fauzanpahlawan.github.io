@@ -1,6 +1,22 @@
 # Experience template
 # Experience 1
 - layout: left
+  company: Kodehive (PT Kode Gama Teknologi)
+  #  link: 
+  job_title: .NET Developer
+  dates: May 2023 - Present
+  quote: >
+    Kodehive Jakarta, Indonesia
+  description: | # this will include new lines to allow paragraphs
+    Developing Web Api and Web App using ASP.NET as framework with. The Web Api and Web App are using Onion Architecture for clean, scalable, and easy to maintain applications.
+
+    I gained knowledge in various aspects of the .NET framework. I learned about .NET MVC, HTTP, and REST API development. Additionally, I worked with an application that utilized the Onion Architecture with Dapper, which provided a modular and maintainable code structure. I also gained experience in developing secure API with Identity Server and also learned SQL and Transact SQL for database transactions.
+
+    I had the opportunity to work on an ERP (Enterprise Resource Planning) Software system, with the latest technologies in the .NET ecosystem. Specifically, I utilized .NET 6.0, which provided me with access to the latest features and enhancements in the framework. Additionally, I gained experience in front-end development using Vue.js, a popular JavaScript framework for building user interfaces. Furthermore, I worked with PostgreSQL as the database management system, honing my skills in data modeling, querying, and optimizing database operations. This hands-on experience allowed me to apply my theoretical knowledge to real-world scenarios and further strengthen my expertise in the .NET stack.
+
+
+# Experience 2
+- layout: left
   company: AdIns
   #  link: 
   job_title: Android Developer Intern
@@ -8,9 +24,9 @@
   quote: >
     Ad-Ins Malang, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Working in a team to develop and maintain project based Android Application. Design, create and maintain UI, create and maintain designed API Call, and also debugging.
+    Working in a team to develop and maintain project based Android Application. Responsible for creating, designing and maintaining features, bug fixing, and making new features and working with data provided by RESTFUL API.
 
-# Experience 2
+# Experience 3
 - layout: left
   company: KOMINFO
   #  link: 
@@ -19,9 +35,9 @@
   quote: >
     Ministry of Communication and Information Technology (Kementerian Komunikasi dan Informatika Republik Indonesia) Jakarta, Indonesia
   description: | # this will include new lines to allow paragraphs
-    Working in a team of three to develop Android Application version of Aduan Konten by KOMINFO, that can be used by users to report negative content that meets the criteria of negative information or electronic document according to rules and regulation by KOMINFO.
+    Working in a team of three to develop an Android Application version of Aduan Konten by KOMINFO from scratch, that can be used by users to report content that violates the regulation by KOMINFO.
 
-# Experience 3
+# Experience 4
 - layout: left
   company: Faculty of Computer Science Brawijaya University
   #  link:
@@ -32,7 +48,7 @@
   description: | # this will include new lines to allow paragraphs
     Part of a team that responsible for assisting college students in Advance Programming practice with Java.
 
-# Experience 4
+# Experience 5
 - layout: left
   company: Faculty of Computer Science Brawijaya University
   #  link:
@@ -43,7 +59,7 @@
   description: | # this will include new lines to allow paragraphs
     Part of a team that responsible for assisting college students in Basic Programming practice with Java
 
-# Experience 5
+# Experience 6
 - layout: left
   company: Faculty of Computer Science Brawijaya University
   #  link:
